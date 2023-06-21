@@ -1,1 +1,2 @@
-admin.json
+/node_modules
+/firebase/admin.json
